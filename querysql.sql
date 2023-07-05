@@ -10,7 +10,7 @@
  -- Write a query to delete a student with a specific student_id from the "Students" table. ---
 
 
-create database unversity;
+create database university;
 use university;
 
 create table student(
